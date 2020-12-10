@@ -1,0 +1,1 @@
+object GameOfLife extends App {}
